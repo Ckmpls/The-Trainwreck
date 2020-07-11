@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## All Aboard The Trainwreck!
 
 You can use the [editor on GitHub](https://github.com/Ckmpls/TyreeksTrainwreck/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
